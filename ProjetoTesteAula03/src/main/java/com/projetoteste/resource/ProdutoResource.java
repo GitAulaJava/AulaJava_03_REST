@@ -21,7 +21,7 @@ public class ProdutoResource {
         System.out.println("Método GET 'findAll'");
         return produtoDao.buscaTodosProdutos();
     }
-
+        
     @GET
     @Path("{id}")
     @Produces(MediaType.APPLICATION_JSON)

@@ -1,0 +1,15 @@
+com\projetoteste\modelo\Produto.class
+com\projetoteste\resource\UsuarioResource.class
+com\projetoteste\dao\EntidadeDao.class
+com\projetoteste\modelo\Cargos.class
+com\projetoteste\resource\CargoResource.class
+com\projetoteste\util\ProdutoDaoTemp.class
+com\projetoteste\resource\EntidadeResource.class
+com\projetoteste\resource\ProdutoResource.class
+com\projetoteste\dao\CargoDao.class
+com\projetoteste\modelo\Usuarios.class
+com\projetoteste\util\GeraTabelas.class
+com\projetoteste\dao\UsuarioDao.class
+com\projetoteste\modelo\Entidades.class
+com\projetoteste\util\ProdutosTemp.class
+com\projetoteste\application\ApplicationConfig.class
